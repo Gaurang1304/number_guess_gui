@@ -22,7 +22,7 @@ A fun and interactive number guessing game built using Python's `tkinter` librar
 
 ## 📸 Screenshot
 
-![Game Screenshot](screenshot.png)
+![Game Screenshot](Screenshot.png)
 
 > Replace `screenshot.png` with your actual image file in the repo.
 
