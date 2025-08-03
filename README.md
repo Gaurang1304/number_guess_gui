@@ -98,4 +98,4 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 ## 🙋‍♂️ Author
 
 **Gaurang Agarwal**  
-[GitHub Profile](https://github.com/yourusername)
+[GitHub Profile](https://github.com/Gaurang1304)
