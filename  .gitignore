@@ -1,0 +1,45 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Python-specific
+*.log
+*.pot
+*.pyc
+*.pyo
+
+# Backup & temporary files
+*.bak
+*.swp
+*.tmp
+*.~*
+
+# Compiled C files
+*.so
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints
+
+# Tkinter-specific (GUI screenshots or temp files you may generate)
+screenshot.png
+flowchart.png
+
+# Logs or history
+calc_history.txt
